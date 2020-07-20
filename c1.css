@@ -1,0 +1,85 @@
+@media only screen and (min-width: 600px) {
+
+.im
+{
+content:url("Schedule (1).png");
+max-width:100%;
+height:auto;
+
+}
+}
+@media only screen and (max-width: 600px) {
+.im
+{
+content:url("ScheduleVertical.png");
+max-width:100%;
+height:auto;
+
+
+
+}
+}
+.cont {
+ height:180px;
+  width:100%;
+  padding: 0px 0;
+  background: linear-gradient(6deg, #111010 55%, transparent 2%);
+  
+
+}
+.dv{
+
+background-image:url("s5.jpg");
+   opacity: 0.2;
+
+}
+@media only screen and (max-width: 600px) {
+.hl
+{
+border-bottom: 4px solid #00FF76;
+width:280px;
+margin-top:0px;
+
+margin-bottom: 40px;
+align:center;
+}
+}
+
+@media only screen and (min-width: 600px) {
+.hl
+{
+border-bottom: 4px solid #00FF76;
+width:280px;
+margin-top:0px;
+margin-left:10rem;
+margin-bottom: 80px;
+}
+}
+p
+{
+margin: 0 0 1px;
+}
+@media only screen and (max-width: 600px) {
+.para{
+font-size:80px;
+font-family:Open Sans Bold;
+color:white;
+text-align:center;
+
+
+}
+}
+@media only screen and (min-width: 600px) {
+.para{
+font-size:80px;
+font-family:Open Sans Bold;
+color:white;
+text-align:left;
+margin-left:9rem;
+
+}
+}
+.b{
+padding:2px;
+
+}
